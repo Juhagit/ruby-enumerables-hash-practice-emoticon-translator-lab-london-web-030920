@@ -17,7 +17,7 @@ def get_japanese_emoticon(file_path, emoticon)
     library["get emoticon"][emoticon]
     else 
     "sorry"
-  
+  end 
 end
 
 def get_english_meaning
